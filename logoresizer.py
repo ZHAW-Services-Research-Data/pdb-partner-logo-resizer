@@ -1,3 +1,7 @@
+import streamlit as st
+from PIL import Image
+import io
+
 # Zielgröße
 TARGET_WIDTH = 1500
 TARGET_HEIGHT = 850
